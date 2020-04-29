@@ -28,8 +28,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_svg: ^0.14.0
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -48,11 +46,11 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - assets/spotify_logo_green.ai
     - assets/spotify.png
     - assets/jesus.png
     - assets/ye.jpg
     - assets/brodha.jpg
+    - assets/concert-signup.webp
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

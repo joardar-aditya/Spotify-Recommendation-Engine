@@ -23,8 +23,7 @@ class _stateHome extends State<home> {
       ),
       bottomNavigationBar:
         Container(padding:EdgeInsets.all(10),color:Colors.black,child:Row(
-           mainAxisAlignment: MainAxisAlignment.spaceAround
-          ,
+           mainAxisAlignment: MainAxisAlignment.spaceAround,
            mainAxisSize: MainAxisSize.max,
 
           children: <Widget>[
